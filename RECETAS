@@ -2,62 +2,62 @@
 <recetas>
   <nombre>Sopa de cebolla</nombre>
   <comensales>4</comensales>
-  <ingredientes>
+    <ingredientes>
 
     <ingrediente numero="1">
-    <nombre >cebolla</nombre>
-    <cantidad>1KG </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+      <nombre >cebolla</nombre>
+      <cantidad>1KG </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="2">
-    <nombre >caldo de carne</nombre>
-    <cantidad>2L </cantidad>
-    <proceso></proceso>
-    </ingrediente>
-    
- <ingrediente numero="3">
-    <nombre >mantequilla</nombre>
-    <cantidad>100g </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+    <ingrediente numero="2">
+      <nombre >caldo de carne</nombre>
+      <cantidad>2L </cantidad>
+      <proceso></proceso>
+      </ingrediente>
+      
+    <ingrediente numero="3">
+      <nombre >mantequilla</nombre>
+      <cantidad>100g </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="4">
-    <nombre >Queso emmental o gruyere rallado</nombre>
-    <cantidad>100g </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+    <ingrediente numero="4">
+      <nombre >Queso emmental o gruyere rallado</nombre>
+      <cantidad>100g </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="5">
-    <nombre >harina</nombre>
-    <cantidad>1 cucharada </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+    <ingrediente numero="5">
+      <nombre >harina</nombre>
+      <cantidad>1 cucharada </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="6">
-    <nombre >pan tostado</nombre>
-    <cantidad>a su gusto </cantidad>
-    <proceso>cortar en rebanadas de 1 cm</proceso>
-    </ingrediente>
+    <ingrediente numero="6">
+      <nombre >pan tostado</nombre>
+      <cantidad>a su gusto </cantidad>
+      <proceso>cortar en rebanadas de 1 cm</proceso>
+      </ingrediente>
 
- <ingrediente numero="7">
-    <nombre >tomillo</nombre>
-    <cantidad>a su gusto </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+   <ingrediente numero="7">
+      <nombre >tomillo</nombre>
+      <cantidad>a su gusto </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="8">
-    <nombre >laurel</nombre>
-    <cantidad>1 hoja </cantidad>
-    <proceso></proceso>
-    </ingrediente>
+    <ingrediente numero="8">
+      <nombre >laurel</nombre>
+      <cantidad>1 hoja </cantidad>
+      <proceso></proceso>
+      </ingrediente>
 
- <ingrediente numero="9">
-    <nombre >pimienta</nombre>
-    <cantidad>a su gusto </cantidad>
-    <proceso></proceso>
-    </ingrediente>
-    </ingredientes>
+    <ingrediente numero="9">
+      <nombre >pimienta</nombre>
+      <cantidad>a su gusto </cantidad>
+      <proceso></proceso>
+      </ingrediente>
+      </ingredientes>
 
 
 
