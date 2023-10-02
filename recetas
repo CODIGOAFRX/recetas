@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+  <nombre>Sopa de cebolla</nombre>
+  <comensales>4</comensales>
+  <ingredientes>
+    <ingrediente>cebolla</ingrediente>
+    <cantidad>1KG </cantidad>
+    <ingrediente>caldo de carne</ingrediente>
+    <cantidad>2 L </cantidad>
+    <ingrediente>mantequilla</ingrediente>
+    <cantidad>100g </cantidad>
+    <ingrediente>Queso(emmental suizo/ gruyeré rallado)</ingrediente>
+    <cantidad>100gr </cantidad>
+    <ingrediente>harina</ingrediente>
+    <cantidad>1 cucharada </cantidad>
+    <ingrediente>mantequilla</ingrediente>
+    <cantidad>100g </cantidad>
+    
+    </ingredientes>
+</recetas>
